@@ -1,2 +1,3 @@
 # The Best Example Ever
-Which will be a part of the best commit ever.
+iWhich will be a part of the best commit ever.
+Added Zhishuai's text
